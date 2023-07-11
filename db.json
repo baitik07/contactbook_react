@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Baitik",
+      "surname": "Azamatov",
+      "number": "+996(554)-500-005"
+    },
+    {
+      "id": 2,
+      "name": "Sadyr",
+      "surname": "Djaparov",
+      "number": "+996(554)-000-000"
+    },
+    {
+      "id": 3,
+      "name": "Elon",
+      "surname": "Mask",
+      "number": "+996(554)-777-777"
+    },
+    {
+      "name": "Jeff",
+      "surname": "Bezoss",
+      "number": "+996(554)-111-111",
+      "id": 4
+    },
+    {
+      "name": "Cristiano",
+      "surname": "Ronaldo",
+      "number": "+996(777)-777-777",
+      "id": 5
+    }
+  ]
+}
